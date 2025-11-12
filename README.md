@@ -1,6 +1,6 @@
 # Badrabo-projekt
 
-Badra är en fiktiv fastighetsplattform inspirerad av bostadssajter som Hemnet och Booli. Webbplatsen är byggd med semantisk HTML5 och modern CSS3 utan JavaScript.
+Badrabo är en fastighetsplattform inspirerad av bostadssajter som Hemnet och Booli. Webbplatsen är byggd med semantisk HTML5 och modern CSS3 utan JavaScript.
 Syftet är att visa lediga bostäder i ett responsivt grid, med ett fokus på tydlig navigering, tillgänglighet och ren design.
 Projektet består av tre sidor:
 
